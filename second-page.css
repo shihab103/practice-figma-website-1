@@ -37,6 +37,7 @@
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
 #section .sec-1 p,.sec-2 p{
     color: #4f4f4f;
