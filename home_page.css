@@ -11,6 +11,9 @@
     padding: 10px 15px;
     border-radius: 5px;
 }
+.font-primary{
+    font-family:serif;
+}
 body{
     background-color: #ffffff;
 }
