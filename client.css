@@ -45,6 +45,11 @@
 }
 #complex img{
     padding: 20px;
-    /* border-radius: 50px; */
     border-bottom-left-radius: 50px;
+}
+#icon{
+    padding: 0 10px;
+}
+#btn{
+    padding-left: 0;
 }
