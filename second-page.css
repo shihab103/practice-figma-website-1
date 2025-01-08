@@ -47,3 +47,24 @@
     padding-top: 10px;
     margin-bottom: 10px;
 }
+/* bottom section */
+.bottom{
+    height: 300px;
+    background-image: url("img/Patterns.png");
+    background: #094b72;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.bottom .divition{
+    display: flex;
+    margin-top: 30px;
+}
+.bottom>div>h1{
+    font-size: 45px;
+}
+.bottom .divition h1{
+    margin-bottom: 10px;
+}
